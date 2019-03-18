@@ -6,7 +6,7 @@ TE process has 41 measurement variables and 12 operation variables. We select 52
 The dataset can be downloaded from http://web.mit.edu/braatzgroup/links.html.
 
 ## Framwork
- Pytorch 
+ Pytorch 1.0 
 ## Method 
 LSTM
  
